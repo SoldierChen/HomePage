@@ -101,6 +101,7 @@ Talks
 
 Professional Services
 ======
+* Reviewer of TKDE 2022
 * Reviewer of Information Science 2021
 * External reviewer of ICDCS 2021
 * External reviewer of CCGrid 2021
