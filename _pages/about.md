@@ -12,10 +12,10 @@ redirect_from:
 About me
 ======
 
-I am currently a Ph.D. candidate at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
+I am a Ph.D graduated from School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
 
 <!-- My research interests are in hardware accelerator, FPGAs, heterogeneous computing, graph processing and database systems. -->
-My research focuses on *deployable* hardware accelerators (with special interests in FPGAs) for emerging applications such as graph processing and database systems. 
+My research focuses on *deployable* hardware accelerators for emerging applications such as graph processing and database systems. 
 
 Education
 ======
@@ -42,7 +42,7 @@ Research Projects
 Publications
 ======
 
-<!-- * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines "  International Symposium on Computer Architecture (ISCA) , 2022. (in submission) -->
+* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines " The International Symposium on Microarchitecture (MICRO), 2022.
 
 * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022.
  
