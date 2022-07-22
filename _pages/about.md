@@ -33,6 +33,7 @@ Email: xinyuc@comp.nus.edu.sg -->
 
 Research Projects
 ======
+* Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines
 * An HLS-based Framework for Accelerating Data Intensive Applications on FPGAs
 * An Efficient Graph Processing Framework on HLS-based FPGAs
 * Hash Joins on Coupled CPU-FPGA Architecture
