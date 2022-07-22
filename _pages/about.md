@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-I am a Ph.D graduated from School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
+I received my Ph.D. degree from School of Computing, National University of Singapore, under the supervision of [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
 
 <!-- My research interests are in hardware accelerator, FPGAs, heterogeneous computing, graph processing and database systems. -->
 My research focuses on *deployable* hardware accelerators for emerging applications such as graph processing and database systems. 
