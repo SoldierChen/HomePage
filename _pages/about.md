@@ -20,7 +20,7 @@ My research focuses on *deployable* hardware accelerators for emerging applicati
 Education
 ======
 
-* National University of Singapore (Sep 2017 - March 2022 expected)
+* National University of Singapore (Sep 2017 - May 2022)
   * Ph.D. in Computer Science
 
 * Harbin Institute of Technology (Aug 2012 - Jun 2016)
@@ -42,7 +42,7 @@ Research Projects
 Publications
 ======
 
-* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines " The International Symposium on Microarchitecture (MICRO), 2022.
+* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines " The International Symposium on Microarchitecture (**MICRO**), 2022.
 
 * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022.
  
