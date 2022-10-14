@@ -43,7 +43,7 @@ Research Projects
 Publications
 ======
 
-* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines " The International Symposium on Microarchitecture (**MICRO**), 2022.[[Paper](https://arxiv.org/abs/2203.02676)][[Code](https://github.com/Xtra-Computing/ReGraph)]
+* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines " The International Symposium on Microarchitecture (**MICRO**), 2022. [[Paper](https://arxiv.org/abs/2203.02676)][[Code](https://github.com/Xtra-Computing/ReGraph)]
 
 * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022.
  
