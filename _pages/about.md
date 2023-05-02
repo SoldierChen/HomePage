@@ -17,6 +17,21 @@ I received my Ph.D. degree from School of Computing, National University of Sing
 <!-- My research interests are in hardware accelerator, FPGAs, heterogeneous computing, graph processing and database systems. -->
 My research focuses on *deployable* hardware accelerators for emerging applications such as graph processing and database systems. 
 
+
+
+
+Work Experiences
+======
+* Hisilicon, HUAWEI - Research Engineer  (Sep 2022 - Present)
+  * Design domain-specific accelerators targeting big data analytics
+  * System integration and optimization
+* Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
+  * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
+* Xilinx - Intern in department of XUP (Sep 2015 - Aug 2016)
+  * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
+
+
+
 Education
 ======
 
@@ -43,6 +58,9 @@ Research Projects
 Publications
 ======
 
+* Tan, Hongshi, **Xinyu Chen**, Yao Chen, Bingsheng He, and Weng-Fai Wong. "LightRW: FPGA Accelerated Graph Dynamic Random Walks" The ACM Special Interest Group on Management of Data (**SIGMOD**), 2023. [[Paper](https://arxiv.org/abs/2304.07004)][[Code](https://github.com/Xtra-Computing/LightRW)]
+
+
 * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines " The International Symposium on Microarchitecture (**MICRO**), 2022. [[Paper](https://arxiv.org/abs/2203.02676)][[Code](https://github.com/Xtra-Computing/ReGraph)]
 
 * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022.
@@ -65,16 +83,6 @@ Publications
 
 * Chuang-Yi Gui, Long Zheng, Bingsheng He, Cheng Liu, **Xinyu Chen**, Xiao-Fei Liao, and Hai Jin. "A survey on graph processing accelerators: Challenges and opportunities." Journal of Computer Science and Technology, 2019. 
 
-
-Work Experiences
-======
-* Hisilicon, HUAWEI - Research Engineer  (Sep 2022 - Present)
-  * Design domain-specific accelerators targeting big data analytics
-  * System integration and optimization
-* Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
-  * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
-* Xilinx - Intern in department of XUP (Sep 2015 - Aug 2016)
-  * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
 
 
 Honors & Awards
