@@ -68,6 +68,9 @@ Publications
 
 Work Experiences
 ======
+* Hisilicon, HUAWEI - Research Engineer  (Sep 2022 - Present)
+  * Design domain-specific accelerators targeting big data analytics
+  * System integration and optimization
 * Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
   * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
 * Xilinx - Intern in department of XUP (Sep 2015 - Aug 2016)
