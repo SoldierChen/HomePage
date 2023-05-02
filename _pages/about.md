@@ -76,6 +76,7 @@ Work Experiences
 
 Honors & Awards
 ======
+* Outstanding Researcher Awards​, AMD-Xilinx (2023) [[link](https://www.amd-haccs.io/awards.html)]
 * Research Achievement Award, issued by National University of Singapore (2021)
 * Xilinx Adaptive Computing Developer Contest, 3rd Place (9 out of 72), issued by Xilinx (2020) [[link](https://www.xilinx.com/developer/community/xilinx-contests/adaptive-computing-contest-2020.html)]
 * Research Achievement Award, issued by National University of Singapore (2020)
@@ -102,6 +103,8 @@ Talks
 
 Professional Services
 ======
+* Reviewer of TKDE 2023
+* Reviewer of DAPD SI 2023
 * Reviewer of TKDE 2022
 * Reviewer of Information Science 2021
 * External reviewer of ICDCS 2021
