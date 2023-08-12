@@ -108,15 +108,16 @@ Teaching Experiences
 
 Talks
 ======
+* China National Computer Congress (CNCC) Technique Seminar, 2022
 * Xilinx Adaptive Compute Clusters (XACC) Technique Talk, 2021 [[link](https://xilinx.github.io/xacc/xacc_tech_talks.html)]
 * Xilinx University Program Winter Camp invited talk, 2021
 * Invited talk at Georgia Tech seminar, 2021
 
 Professional Services
 ======
-* Reviewer of TKDE 2023
+* Reviewer of TRETS 2022, 2023
 * Reviewer of DAPD SI 2023
-* Reviewer of TKDE 2022
+* Reviewer of TKDE 2022, 2023
 * Reviewer of Information Science 2021
 * External reviewer of ICDCS 2021
 * External reviewer of CCGrid 2021
