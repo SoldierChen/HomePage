@@ -14,47 +14,9 @@ Biography
 
 I received my Ph.D. degree from National University of Singapore in 2022, under the supervision of [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
 
-<!-- My research interests are in hardware accelerator, FPGAs, heterogeneous computing, graph processing and database systems. -->
 My research aims to build sustainable computing systems by the means of algorithm-hardware co-design and system optimizations. 
 In particular, I am interested in designing *deployable* hardware accelerators using FPGAs for emerging applications such as graph processing, database systems and machine learning systems. 
 
-
-
-Experiences
-======
-* Hisilicon, HUAWEI - Principle Engineer  (Sep 2022 - Present)
-  * Design the programmable accelerator for next-generation DPU
-* National University of Singapore - Research Fellow  (May 2022 - Aug 2022)
-  * Hardware accelerated graph processing systems
-* Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
-  * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
-* Xilinx - Intern in department of XUP (Sep 2015 - Aug 2016)
-  * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
-
-
-
-Education
-======
-
-* National University of Singapore (Sep 2017 - May 2022)
-  * Ph.D. in Computer Science
-* Peking University (Aug 2016 - Jun 2017)
-  * Computer Engineering
-* Harbin Institute of Technology (Aug 2012 - Jun 2016)
-  * B.E. in Microelectronic Engineering
-
-
-<!-- Contact
-======
-Email: xinyuc@comp.nus.edu.sg -->
-
-Research Projects
-======
-* Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines
-* An HLS-based Framework for Accelerating Data Intensive Applications on FPGAs
-* An Efficient Graph Processing Framework on HLS-based FPGAs
-* Hash Joins on Coupled CPU-FPGA Architecture
-* Breadth-first Search (BFS) on Coupled CPU-FPGA Architecture
 
 
 Publications
@@ -86,6 +48,42 @@ Publications
 * Chuang-Yi Gui, Long Zheng, Bingsheng He, Cheng Liu, **Xinyu Chen**, Xiao-Fei Liao, and Hai Jin. "A survey on graph processing accelerators: Challenges and opportunities." Journal of Computer Science and Technology, 2019. 
 
 
+Research Projects
+======
+* Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines
+* An HLS-based Framework for Accelerating Data Intensive Applications on FPGAs
+* An Efficient Graph Processing Framework on HLS-based FPGAs
+* Hash Joins on Coupled CPU-FPGA Architecture
+* Breadth-first Search (BFS) on Coupled CPU-FPGA Architecture
+
+
+Experiences
+======
+* Hisilicon, HUAWEI - Principle Engineer  (Sep 2022 - Present)
+  * Design the programmable accelerator for next-generation DPU
+* National University of Singapore - Research Fellow  (May 2022 - Aug 2022)
+  * Hardware accelerated graph processing systems
+* Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
+  * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
+* Xilinx - Intern in department of XUP (Sep 2015 - Aug 2016)
+  * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
+
+
+
+Education
+======
+
+* National University of Singapore (Sep 2017 - May 2022)
+  * Ph.D. in Computer Science
+* Peking University (Aug 2016 - Jun 2017)
+  * Computer Engineering
+* Harbin Institute of Technology (Aug 2012 - Jun 2016)
+  * B.E. in Microelectronic Engineering
+
+
+<!-- Contact
+======
+Email: xinyuc@comp.nus.edu.sg -->
 
 Honors & Awards
 ======
