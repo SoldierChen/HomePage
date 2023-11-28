@@ -61,7 +61,7 @@ Publications
 Research Projects
 ======
 * Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines
-* An HLS-based Framework for Accelerating Data Intensive Applications on FPGAs
+* An HLS-based Framework for Accelerating Data-Intensive Applications on FPGAs
 * An Efficient Graph Processing Framework on HLS-based FPGAs
 * Hash Joins on Coupled CPU-FPGA Architecture
 * Breadth-first Search (BFS) on Coupled CPU-FPGA Architecture
@@ -72,10 +72,10 @@ Experiences
 * Hisilicon, HUAWEI - Principle Engineer  (Sep 2022 - Present)
   * Design the programmable accelerator for next-generation DPU
 * National University of Singapore - Research Fellow  (May 2022 - Aug 2022)
-  * Hardware accelerated graph processing systems
+  * Hardware-accelerated graph processing systems
 * Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
   * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
-* Xilinx - Intern in department of XUP (Sep 2015 - Aug 2016)
+* Xilinx - Intern in the department of XUP (Sep 2015 - Aug 2016)
   * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
 
 
