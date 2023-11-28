@@ -12,13 +12,16 @@ redirect_from:
 Biography
 ======
 
-I will become an *Assistant Professor* in Microelectronics Thrust at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a Principal Engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National University of Singapore in 2022, supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and I attained my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
+I will become an *Assistant Professor* in Microelectronics Thrust at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a Principal Engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from [National University of Singapore](https://nus.edu.sg/) in 2022, supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/).
 
 
 
-<!-- In particular, I am interested in exploring algorithm-hardware codesigned accelerators (on FPGAs or for RISCVs), as well as optimizing heterogeneous computing systems that feature FPGA, GPU, or NPU resources, for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems. -->
+<!-- In particular, I am interested in exploring algorithm-hardware codesigned accelerators (on FPGAs or for RISCVs), as well as optimizing heterogeneous computing systems that feature FPGA, GPU, or NPU resources, for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems. 
+, and I attained my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016
+-->
 
 My research aims to build sustainable computing solutions by means of *hardware acceleration* and *system optimization*. 
+
 In particular, I am interested in investigating domain-specific accelerators (DSAs), which can be implemented on FPGAs or integrated with RISCVs, for emerging applications such as graph processing, databases, machine learning, and autonomous driving. 
 Additionally, I am interested in reinventing the system stack to efficiently deploy these applications in heterogeneous computing environments and make the best use of diverse computing resources (e.g., CPUs, FPGAs, GPUs, and NPUs).
 
