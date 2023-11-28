@@ -120,12 +120,12 @@ Talks
 
 Professional Services
 ======
-* Reviewer of TRETS 2022, 2023
-* Reviewer of DAPD SI 2023
-* Reviewer of TKDE 2022, 2023
-* Reviewer of Information Science 2021
-* External reviewer of ICDCS 2021
-* External reviewer of CCGrid 2021
+* Reviewer of ACM Transactions on Reconfigurable Technology and Systems (TRETS)
+* Program Committee of DAPD SI
+* Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE)
+* Reviewer of Information Science
+* Reviewer of IEEE International Conference on Distributed Computing Systems (ICDCS)
+* Reviewer of IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 
 
 <br/><br/>
