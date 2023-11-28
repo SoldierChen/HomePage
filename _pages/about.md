@@ -126,7 +126,7 @@ Talks
 Professional Services
 ======
 * Reviewer of ACM Transactions on Reconfigurable Technology and Systems (TRETS)
-* Program Committee of DAPD SI
+* Program Committee of Distributed and Parallel Databases (DAPD) SI
 * Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * Reviewer of Information Sciences
 * Reviewer of IEEE International Conference on Distributed Computing Systems (ICDCS)
