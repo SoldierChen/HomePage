@@ -15,11 +15,12 @@ Biography
 I will become a Tenure-Track *Assistant Professor* in Microelectronics Thrust at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a principal engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National University of Singapore in 2022, where I was supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and I attained my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
 
 
-My research aims to build sustainable computing solutions by means of *hardware acceleration* and *system optimization*. 
 
 <!-- In particular, I am interested in exploring algorithm-hardware codesigned accelerators (on FPGAs or for RISCVs), as well as optimizing heterogeneous computing systems that feature FPGA, GPU, or NPU resources, for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems. -->
 
-In particular, I am interested in exploring domain-specific hardware accelerators (on FPGAs or for RISCVs) for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems, as well as optimizing heterogeneous computing systems that feature FPGA, GPU, or NPU resources through hardware-software codesign. 
+My research aims to build sustainable computing solutions by means of *hardware acceleration* and *system optimization*. 
+In particular, I am interested in investigating domain-specific hardware accelerators, which can be implemented on FPGAs or integrated with RISCVs, for emerging applications such as graph processing, databases, machine learning, and autonomous driving systems. 
+Additionally, I am interested in optimizing these applications on heterogeneous computing systems that feature FPGA, GPU, or NPU resources through hardware-software codesign.
 
 Openings
 ======
