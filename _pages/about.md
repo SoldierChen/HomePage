@@ -12,7 +12,7 @@ redirect_from:
 Biography
 ======
 
-I received my Ph.D. degree from National University of Singapore in 2022, under the supervision of [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
+I will join the Microelectronics Thrust of the Hong Kong University of Science and Technology (Guangzhou) as an assistant professor in Jan. 2024. Currently, I am a Principle Engineer at Hisilicon, Huawei. Prior to that, I received my Ph.D. in Computer Science from National Univeristy of Singapore in 2022, where I was advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
 
 My research aims to build sustainable computing systems by the means of algorithm-hardware co-design and system optimizations. 
 In particular, I am interested in designing *deployable* hardware accelerators using FPGAs for emerging applications such as graph processing, database systems and machine learning systems. 
