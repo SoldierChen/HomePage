@@ -12,7 +12,7 @@ redirect_from:
 Biography
 ======
 
-I will become an *Assistant Professor* in Microelectronics Thrust at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a Principal Engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from [National University of Singapore](https://nus.edu.sg/) in 2022, supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/).
+I will become an *Assistant Professor* in Microelectronics Thrust at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a Principal Engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from [National University of Singapore](https://nus.edu.sg/) in 2022, where I was supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and worked closely with [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/) and [Prof. Deming Chen](https://dchen.ece.illinois.edu/).
 
 
 
