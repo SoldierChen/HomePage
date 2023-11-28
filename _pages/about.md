@@ -104,7 +104,6 @@ Honors & Awards
 * Research Achievement Award, issued by National University of Singapore (2021)
 * Xilinx Adaptive Computing Developer Contest, 3rd Place (9 out of 72), issued by Xilinx (2020) [[link](https://www.xilinx.com/developer/community/xilinx-contests/adaptive-computing-contest-2020.html)]
 * Research Achievement Award, issued by National University of Singapore (2020)
-* Research Scholarship, issued by National University of Singapore (2017)
 * Honor Graduation of Harbin Institute of Technology (Top 2%) (2016)
 * National Scholarship (Top 2%), issued by China Ministry of Education (2013)
 * National Undergraduate Electronics Design Contest (Second Prize，Top 4.9%), issued by China Ministry of Education (2013)
