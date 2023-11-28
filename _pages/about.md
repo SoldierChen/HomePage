@@ -26,8 +26,8 @@ Additionally, I am interested in reinventing the system stack to efficiently dep
 Openings
 ======
 
-**I am actively looking for self-motivated PhD students, master students, and research assistants for the intake in 2024 spring/fall. 
-Please feel free to email me your CV if you are interested in my research.**
+***I am actively looking for self-motivated PhD students, master students, and research assistants for the intake in 2024 spring/fall. 
+Please feel free to email me your CV if you are interested in my research.***
 
 Publications
 ======
