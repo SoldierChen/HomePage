@@ -16,7 +16,10 @@ I will become a Tenure-Track *Assistant Professor* in Microelectronics Thrust at
 
 
 My research aims to build sustainable computing solutions by means of *hardware acceleration* and *system optimization*. 
-In particular, I am interested in exploring algorithm-hardware codesigned accelerators (on FPGAs or for RISCVs), as well as optimizing heterogeneous computing systems that feature FPGA, GPU, or NPU resources, for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems.
+
+<!-- In particular, I am interested in exploring algorithm-hardware codesigned accelerators (on FPGAs or for RISCVs), as well as optimizing heterogeneous computing systems that feature FPGA, GPU, or NPU resources, for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems. -->
+
+In particular, I am interested in exploring domain-specific hardware accelerators (on FPGAs or for RISCVs) for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems, as well as optimizing heterogeneous computing systems that feature FPGA, GPU, or NPU resources through hardware-software codesign. 
 
 Openings
 ======
