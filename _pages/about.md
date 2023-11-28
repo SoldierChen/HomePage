@@ -16,8 +16,7 @@ I will become an *assistant professor* in Microelectronics Thrust at the [Hong K
 
 
 My research aims to build sustainable computing solutions by means of *hardware acceleration* and *system optimization*. 
-In particular, I am interested in designing domain-specific accelerator architecture (on FPGAs or for RISCVs) and optimizing heterogeneous computing systems (with FPGAs, GPUs or NPUs) for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems. 
-
+Targeting emerging applications such as graph processing, database systems, machine learning, and autonomous driving, I am particularly interested in exploring algorithm-hardware codesigned accelerators (on FPGAs or for RISCVs) and optimizing heterogeneous computing systems that feature FPGA, GPU, or NPU resources.
 
 Openings
 ======
