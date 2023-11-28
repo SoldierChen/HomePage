@@ -21,7 +21,7 @@ In particular, I am interested in designing accelerator architecture (on FPGAs o
 Open Positions
 ======
 
-**I am looking for self-motivated PhD students, master students and research assistants for the intake in 2024 spring/fall. Please feel free to drop me an email with your CV if you are interested.**
+**I am looking for self-motivated PhD students, master students and research assistants for the intake in 2024 spring/fall. Please feel free to drop me an email with your CV if you are interested in my research.**
 
 Publications
 ======
