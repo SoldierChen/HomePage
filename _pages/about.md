@@ -12,7 +12,7 @@ redirect_from:
 Biography
 ======
 
-I will become a Tenure-Track *Assistant Professor* in Microelectronics Thrust at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a principal engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National University of Singapore in 2022, where I was supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and I attained my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
+I will become an *Assistant Professor* in Microelectronics Thrust at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a principal engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National University of Singapore in 2022, where I was supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and I attained my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
 
 
 
