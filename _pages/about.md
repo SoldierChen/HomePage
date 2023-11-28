@@ -20,7 +20,7 @@ I will become a Tenure-Track *Assistant Professor* in Microelectronics Thrust at
 
 My research aims to build sustainable computing solutions by means of *hardware acceleration* and *system optimization*. 
 In particular, I am interested in investigating domain-specific accelerators (DSAs), which can be implemented on FPGAs or integrated with RISCVs, for emerging applications such as graph processing, databases, machine learning, and autonomous driving. 
-Additionally, I am interested in reinventing the system stack to efficiently deploy these applications on heterogeneous computing environments and make the best use of diverse computing resources (e.g., CPUs, FPGAs, GPUs, and NPUs).
+Additionally, I am interested in reinventing the system stack to efficiently deploy these applications in heterogeneous computing environments and make the best use of diverse computing resources (e.g., CPUs, FPGAs, GPUs, and NPUs).
 
 
 Openings
@@ -37,7 +37,7 @@ Publications
 
 * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines " The International Symposium on Microarchitecture (**MICRO**), 2022. [[Paper](https://arxiv.org/abs/2203.02676)][[Code](https://github.com/Xtra-Computing/ReGraph)]
 
-* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022.
+* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022. [[Paper](https://dl.acm.org/doi/full/10.1145/3517141)][[Code](https://github.com/Xtra-Computing/ThunderGP/tree/v_HBM)]
  
 * Hongshi Tan, **Xinyu Chen**, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " ThundeRiNG: Generating Multiple Independent Random Number Sequences on FPGAs"  The International Conference on Supercomputing (**ICS**), 2021. [[Paper](https://www.comp.nus.edu.sg/~wongwf/papers/ICS2021.pdf)][[Code](https://github.com/Xtra-Computing/ThundeRiNG)]
 
@@ -53,7 +53,7 @@ Publications
 
 * Cheng Liu, **Xinyu Chen**, Bingsheng He, Xiaofei Liao, Ying Wang, and Lei Zhang. "OBFS: OpenCL Based BFS Optimizations on Software Programmable FPGAs." The International Conference on Field-Programmable Technology (**FPT**), 2019. (short paper) [[Paper](https://ieeexplore.ieee.org/abstract/document/8977884)][[Code](https://github.com/Liu-Cheng/bfs_with_Intel_OpenCL)]
 
-* Xuntao Cheng, Bingsheng He, Eric Lo, Wei Wang, Shengliang Lu, and **Xinyu Chen**. "Deploying Hash Tables on Die-Stacked High Bandwidth Memory." The International Conference on Information and Knowledge Management (**CIKM**), 2019.
+* Xuntao Cheng, Bingsheng He, Eric Lo, Wei Wang, Shengliang Lu, and **Xinyu Chen**. "Deploying Hash Tables on Die-Stacked High Bandwidth Memory." The International Conference on Information and Knowledge Management (**CIKM**), 2019. [[Paper](https://www.comp.nus.edu.sg/~hebs/pub/hbm-cikm19.pdf)]
 
 * Chuang-Yi Gui, Long Zheng, Bingsheng He, Cheng Liu, **Xinyu Chen**, Xiao-Fei Liao, and Hai Jin. "A survey on graph processing accelerators: Challenges and opportunities." Journal of Computer Science and Technology, 2019. 
 
