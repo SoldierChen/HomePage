@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-About me
+Biography
 ======
 
 I received my Ph.D. degree from National University of Singapore in 2022, under the supervision of [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
@@ -20,11 +20,10 @@ In particular, I am interested in designing *deployable* hardware accelerators u
 
 
 
-Work Experiences
+Experiences
 ======
-* Hisilicon, HUAWEI - Research Engineer  (Sep 2022 - Present)
-  * Design domain-specific accelerators targeting big data analytics
-  * System integration and optimization
+* Hisilicon, HUAWEI - Principle Engineer  (Sep 2022 - Present)
+  * Design the programmable accelerator for next-generation DPU
 * National University of Singapore - Research Fellow  (May 2022 - Aug 2022)
   * Hardware accelerated graph processing systems
 * Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
@@ -39,9 +38,8 @@ Education
 
 * National University of Singapore (Sep 2017 - May 2022)
   * Ph.D. in Computer Science
-
 * Peking University (Aug 2016 - Jun 2017)
-    
+  * Computer Engineering
 * Harbin Institute of Technology (Aug 2012 - Jun 2016)
   * B.E. in Microelectronic Engineering
 
