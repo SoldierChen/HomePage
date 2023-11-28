@@ -14,8 +14,8 @@ Biography
 
 I will become an *assistant professor* in Microelectronics Thrust of the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a Principle Engineer at Hisilicon, Huawei, designing the accelerators of next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National Univeristy of Singapore in 2022, where I was supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and I received my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
 
-My research aims to build sustainable computing solutions by means of domain-specific hardware acceleration and system optimization. 
-In particular, I am interested in designing accelerator architecture (on FPGAs or RISCVs) and optimizing heterogeneous computing systems (with FPGAs, GPUs or NPUs) for emerging applications including graph processing, database systems, machine learning, and autonomous driving systems. 
+My research aims to build sustainable computing solutions by means of hardware acceleration and system optimization. 
+In particular, I am interested in designing domain-specific accelerator architecture (on FPGAs or for RISCVs) and optimizing heterogeneous computing systems (with FPGAs, GPUs or NPUs) for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems. 
 
 
 Open Positions
