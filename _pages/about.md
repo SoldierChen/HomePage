@@ -12,10 +12,10 @@ redirect_from:
 Biography
 ======
 
-I will join the Microelectronics Thrust of the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as an *assistant professor* in Jan. 2024. Currently, I am a Principle Engineer at Hisilicon, Huawei. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National Univeristy of Singapore in 2022, supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
+I will become an *assistant professor* in Microelectronics Thrust of the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a Principle Engineer at Hisilicon, Huawei. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National Univeristy of Singapore in 2022, where I was supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and I received my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
 
-My research aims to build sustainable computing systems by the means of algorithm-hardware co-design and system optimizations. 
-In particular, I am interested in designing *deployable* hardware accelerators using FPGAs for emerging applications such as graph processing, database systems and machine learning systems. 
+My research aims to build sustainable computing solutions by means of domain-specific hardware acceleration and system optimization. 
+In particular, I am interested in designing *deployable* hardware accelerators using FPGAs for emerging applications such as graph processing, database systems and machine learning systems. algorithm-hardware co-design
 
 
 
