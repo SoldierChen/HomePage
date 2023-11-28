@@ -12,7 +12,7 @@ redirect_from:
 Biography
 ======
 
-I will become an *assistant professor* in Microelectronics Thrust of the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a Principle Engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National Univeristy of Singapore in 2022, where I was supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and I attained my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
+I will become an *assistant professor* in Microelectronics Thrust at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in January 2024. Currently, I am a principal engineer at Hisilicon, HUAWEI, where I work on accelerator design for the next-generation DPU. Prior to joining Hisilicon, I received my Ph.D. in Computer Science from National University of Singapore in 2022, where I was supervised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) and [Prof. Weng-Fai WONG](https://www.comp.nus.edu.sg/~wongwf/), and I attained my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016.
 
 My research aims to build sustainable computing solutions by means of *hardware acceleration* and *system optimization*. 
 In particular, I am interested in designing domain-specific accelerator architecture (on FPGAs or for RISCVs) and optimizing heterogeneous computing systems (with FPGAs, GPUs or NPUs) for emerging applications such as graph processing, database systems, machine learning, and autonomous driving systems. 
@@ -21,8 +21,8 @@ In particular, I am interested in designing domain-specific accelerator architec
 Open Positions
 ======
 
-**I am actively looking for self-motivated PhD students, master students and research assistants for the intake in 2024 spring/fall. 
-Feel free to drop me an email with your CV if you are interested in my research.**
+**I am actively looking for self-motivated PhD students, master students, and research assistants for the intake in 2024 spring/fall. 
+Please feel free to email me your CV if you are interested in my research.**
 
 Publications
 ======
