@@ -55,7 +55,7 @@ Publications
 
 * Xuntao Cheng, Bingsheng He, Eric Lo, Wei Wang, Shengliang Lu, and **Xinyu Chen**. "Deploying Hash Tables on Die-Stacked High Bandwidth Memory." The International Conference on Information and Knowledge Management (**CIKM**), 2019. [[Paper](https://www.comp.nus.edu.sg/~hebs/pub/hbm-cikm19.pdf)]
 
-* Chuang-Yi Gui, Long Zheng, Bingsheng He, Cheng Liu, **Xinyu Chen**, Xiao-Fei Liao, and Hai Jin. "A survey on graph processing accelerators: Challenges and opportunities." Journal of Computer Science and Technology, 2019. 
+* Chuang-Yi Gui, Long Zheng, Bingsheng He, Cheng Liu, **Xinyu Chen**, Xiao-Fei Liao, and Hai Jin. "A survey on graph processing accelerators: Challenges and opportunities." Journal of Computer Science and Technology, 2019. [[Paper](https://arxiv.org/abs/1902.10130)]
 
 
 Research Projects
