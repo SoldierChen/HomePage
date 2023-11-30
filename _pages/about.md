@@ -22,7 +22,7 @@ Starting from January 2024, I will serve as an *Assistant Professor* in the Micr
 
 My research aims to build sustainable computing solutions by means of *hardware acceleration* and *system optimization*. 
 
-In particular, I am interested in investigating algorithm-architecture codesigned accelerators, which can be implemented on FPGAs or integrated with RISCVs, for emerging applications such as graph processing, databases, and machine learning. 
+In particular, I am interested in investigating algorithm-hardware codesigned accelerators, which can be implemented on FPGAs or integrated with RISCVs, for data processing such as graph analytics, databases, and machine learning. 
 In addition, I am interested in redesigning the system stack for heterogeneous computing environments that feature diverse computing resources (e.g., CPUs, FPGAs, GPUs, and NPUs) and new interconnects (e.g., CXL).
 
 
