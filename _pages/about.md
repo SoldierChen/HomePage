@@ -20,7 +20,7 @@ I am an *Assistant Professor* of the Microelectronics Thrust at [Hong Kong Unive
 , and I attained my B.Eng. in Microelectronic Engineering from Harbin Institute of Technology in 2016
 -->
 
-My research aims to build sustainable computing solutions employing *hardware acceleration* and *system optimization*. 
+My research aims to build sustainable computing solutions through *hardware acceleration* and *system optimization*. 
 
 In particular, I am interested in investigating algorithm-hardware codesigned accelerators, which can be implemented on FPGAs or integrated with RISCVs, for data processing such as graph analytics, databases, and machine learning. 
 In addition, I am interested in redesigning the system stack for heterogeneous computing environments that feature diverse computing resources (e.g., CPUs, FPGAs, GPUs, and NPUs) and new interconnects (e.g., CXL).
